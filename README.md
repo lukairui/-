@@ -6,6 +6,10 @@
 
 简繁通是一款专业的中文简繁体转换桌面工具（离线可以使用），提供简单易用的界面，帮助您快速完成中文文本文件的简繁转换需求。
 
+![image](https://github.com/user-attachments/assets/903d6af1-6caf-49c0-9171-3e5064fae886)
+
+![image](https://github.com/user-attachments/assets/c35878f7-7682-4478-9004-1bcaf5505efe)
+
 ### 主要功能
 
 - **繁体→简体**：将繁体中文文本一键转换为简体中文
